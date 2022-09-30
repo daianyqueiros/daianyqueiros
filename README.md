@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @daianyqueiros
 - 👀 I’m interested in  Análise de Testes| Quality Assurance
 - 🌱 I’m currently learning
-- 
+ 
 - Criação de cenários de teste com Gherkin
 - Testes no Modelo Cascata.
 - Testes em Contexto Ágil.
