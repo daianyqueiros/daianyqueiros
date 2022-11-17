@@ -38,9 +38,6 @@ Estudando sobre testes funcionais de software:
 * Conhecimento em Web Design, bem como, utilização de ferramentas para desenvolvimento de projetos como:
 - Figma 
 - Adobe PS 
-- Adobe Xd
-- Adobe Ai 
--Wordpress
 
 
 - 💞️ 
