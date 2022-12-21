@@ -26,6 +26,7 @@ Estudando sobre testes funcionais de software:
 - Jira 
 - Visual Code 
 - Figma
+- Intellij
 
 * Introdução a Java:
 - Ambiente de Desenvolvimento Java
