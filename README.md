@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @daianyqueiros
+  <h2> 👋 Hi, I’m @daianyqueiros</h2>
+  
 - 👀 I’m interested in  Análise de Testes| Quality Assurance
 - 🌱 I’m currently learning
  
-Estudando sobre testes funcionais de software:
+<b><i>Estudando sobre testes funcionais de software:</b></i>
 
 - Técnicas de teste caixa preta; 
 - Testes no Modelo Cascata.
@@ -13,39 +14,41 @@ Estudando sobre testes funcionais de software:
 - Construção de critérios de aceite de teste (BDD + Gherkin); 
 - Ciclo report para execução dos testes; 
 
-* Automação de Testes/Frameworks:
+<b><i> Automação de Testes/Frameworks:</b></i>
 - Execução testes manuais e automatizados;
 - Registro de evidências de testes;
 - Testes regressivos e exploratórios;
 
-* Metodologias ágeis:
--SCRUM 
+ <b><i>Metodologias ágeis:</b></i>
+
+- SCRUM
+
 - KANBAN
 
-* Ferramentas:
+ <b><i>Ferramentas:</b></i>
 - Jira 
 - Visual Code 
 - Figma
 - Intellij
 
-* Introdução a Java:
+ <b><i>Introdução a Java:</b></i>
 - Ambiente de Desenvolvimento Java
--
-* Introdução a Banco de dados 
 
-* Introdução em HTML:
+ Introdução a Banco de dados 
+
+ Introdução em HTML:
 - Comunicação Client x server
 - Introdução ao HTML na prática
 
-* Conhecimento em Git e ao GitHub
+<b><i> Conhecimento em Git e ao GitHub </b></i>
 
-* Conhecimento em Web Design, bem como, utilização de ferramentas para desenvolvimento de projetos como:
+<b><i> Conhecimento em Web Design, bem como, utilização de ferramentas para desenvolvimento de projetos como:</b></i>
 - Figma 
 - Adobe PS 
 
 
-- 💞️ 
-- 📫 How to reach me Email: daianyqueiros@icloud.com
+
+💞️ 📫 <b> <h4>How to reach me Email: daianyqueiros@icloud.com </b></h4>
 
 <!---
 daianyqueiros/daianyqueiros is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
