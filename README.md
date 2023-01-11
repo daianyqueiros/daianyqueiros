@@ -36,9 +36,10 @@
 
  Introdução a Banco de dados 
 
- Introdução em HTML:
+ Introdução em HTML5 e CSS3:
 - Comunicação Client x server
 - Introdução ao HTML na prática
+- Introdução a Criação de Websites 
 
 <b><i> Conhecimento em Git e ao GitHub </b></i>
 
